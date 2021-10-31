@@ -6,3 +6,26 @@
 * **[git](http://lbd0.github.com)**
 ***
 ## 관심분야
+* 아두이노
+  + 스마트화분
+* VR/AR
+***
+## 사용 가능 언어
+* JAVA
+  + [RandomNumber](http://github.com/lbd0/RandomNumber)
+* C
+* [PYTHON](http://github.com/lbd0/python2021)
+* UNITY
+* ARDUINO
+***
+## 성적
+* 전체 성적  
+
+|1-1|1-2|2-1|
+|:---:|:---:|:---:|
+|4.41|4.5|4.5|
+* 과목별 성적
+  
+|C|JAVA|PYTHON|
+|:--:|:--:|:--:|
+|4.5|4.5|4.5|  
