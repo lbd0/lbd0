@@ -1,20 +1,22 @@
 # RESUME
 ## 인적사항
-![bada](https://user-images.githubusercontent.com/80818640/135386853-e7575136-d544-47ab-9535-00164f35f41f.jpg)
+![ㅂㄷ](https://user-images.githubusercontent.com/80818640/163996543-99b6dfdf-8ef8-4cd0-b09b-61994c3a4bc5.jpg)
 * 이름 : **이바다**
 * 생년월일 : 2001.04.14
-* 학과 : 소프트웨어융합대학 / 전공 : 콘텐츠IT
+* 학교 : 한림대학교
+* 학과 : 정보과학대학 소프트웨어융합대학부 콘텐츠IT 전공 / 스마트 IOT 복수 전공
 * **[git](http://lbd0.github.com)**
 ***
 ## 관심분야
 * 아두이노
   + 스마트화분
 * VR/AR
+  + FPS 게임 (EXIT ZUMBI)
 ***
 ## 사용 가능 언어
 * JAVA
   + [RandomNumber](http://github.com/lbd0/RandomNumber)
-* C
+* C/C++
 * [PYTHON](http://github.com/lbd0/python2021)
 * UNITY
 * ARDUINO
@@ -22,9 +24,9 @@
 ## 성적
 * 전체 성적  
 
-|1-1|1-2|2-1|
-|:---:|:---:|:---:|
-|4.41|4.5|4.5|
+|1-1|1-2|2-1|2-2|
+|:---:|:---:|:---:|:---:|
+|4.41|4.5|4.5|4.33|
 * 과목별 성적
   
 |C|JAVA|PYTHON|
