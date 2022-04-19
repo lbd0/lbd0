@@ -1,6 +1,6 @@
 # RESUME
 ## 인적사항
-![ㅂㄷ](https://user-images.githubusercontent.com/80818640/163996543-99b6dfdf-8ef8-4cd0-b09b-61994c3a4bc5.jpg)
+![ㅂㄷ](https://user-images.githubusercontent.com/80818640/163997620-b7d1a062-e37d-4593-997c-496738e4d4c6.jpg)
 * 이름 : **이바다**
 * 생년월일 : 2001.04.14
 * 학교 : 한림대학교
