@@ -9,7 +9,7 @@
 ***
 ## 관심분야
 * 아두이노
-  + 🌱스마트화분
+  + 🌱[스마트화분](https://github.com/lbd0/SoftwareExhibition)
 * VR/AR
   + 🎮FPS 게임 (EXIT ZUMBI)
 ***
