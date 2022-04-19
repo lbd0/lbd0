@@ -16,7 +16,7 @@
 ## 사용 가능 언어
 * JAVA
 * C/C++
-* [PYTHON](http://github.com/lbd0/python2021)
+* PYTHON
 * UNITY
 * ARDUINO
 * LINUX
@@ -43,8 +43,8 @@
 12. 4차산업혁명과창업
 ***
 ## 2021 주요 활동
-1. [안드로이드 스튜디오를 이용한 랜덤 번호 뽑기 제작](http://github.com/lbd0/RandomNumber)
-2. 아두이노를 이용한 스마트 화분 제작
+1. 안드로이드 스튜디오를 이용한 [랜덤 번호 뽑기](http://github.com/lbd0/RandomNumber) 제작
+2. 아두이노를 이용한 [스마트 화분](https://github.com/lbd0/SoftwareExhibition) 제작
 3. 유니티를 이용한 FPS게임 제작
 ***
 ## 2022 수강중인 과목 (전공&복수전공)
@@ -54,6 +54,9 @@
 4. 논리설계및실험
 5. 신호및시스템
 6. 정보보호론
+***
+## 2022 활동 계획
+1. 
 ***
 ## 성적
 * 전체 성적  
