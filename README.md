@@ -11,7 +11,7 @@
 * 아두이노
   + 🌱[스마트화분](https://github.com/lbd0/SoftwareExhibition)
 * 유니티
-  + 🎮FPS 게임 (EXIT ZUMBI)
+  + 🎮FPS 게임 [ExitZombie](https://github.com/lbd0/UnityProject_ExitZombie)
 ***
 ## 사용 가능 언어
 * JAVA
@@ -45,7 +45,7 @@
 ## 2021 주요 활동
 1. 안드로이드 스튜디오를 이용한 [랜덤 번호 뽑기](http://github.com/lbd0/RandomNumber) 제작
 2. 아두이노를 이용한 [스마트 화분](https://github.com/lbd0/SoftwareExhibition) 제작
-3. 유니티를 이용한 FPS게임 제작
+3. 유니티를 이용한 FPS게임 [ExitZombie](https://github.com/lbd0/UnityProject_ExitZombie) 제작 
 ***
 ## 2022 수강중인 과목 (전공&복수전공)
 1. C++프로그래밍
@@ -56,7 +56,7 @@
 6. 정보보호론
 ***
 ## 2022 활동 계획
-1. VR 프로젝트
+1. VR 프로젝트 (진행중)
 2. AR 프로젝트
 3. 라즈베리파이 이용한 프로젝트
 4. 씨애랑 소프트웨어전시회 참가
