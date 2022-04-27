@@ -9,9 +9,15 @@
 ***
 ## 프로젝트 경험
 * 아두이노
-  + 🌱[스마트화분](https://github.com/lbd0/SoftwareExhibition)
+  1. 🌱[스마트화분](https://github.com/yoo-soo/SoftwareExhibition_2021)
+    + 개요 : 토양 습도를 측정하여 자동으로 물을 공급해주고 led 조명으로 빛을 제공하여 실내에서 쉽게 키울 수 있는 화분
+    + 제작 인원 : 2명
+    + 맡은 역할 : led 조명, lcd 모듈, 온도 센서, 블루투스 모듈 설치 및 구현
 * 유니티
-  + 🎮FPS 게임 [ExitZombie](https://github.com/lbd0/UnityProject_ExitZombie)
+  1. 🎮FPS 게임 [ExitZombie](https://github.com/lbd0/UnityProject_ExitZombie)
+    + 개요 : FPS방식으로 제한 시간안에 생성되는 좀비와 싸우며 아이템을 얻고, 건물을 탐색하여 힌트를 얻어 옥상으로 가는 엘리베이터의 비밀번호를 추리하여 탈출하는 타임어택 방탈출 게임
+    + 제작 인원 : 3명
+    + 맡은 역할 : 플레이어의 모든 기능 구현
 ***
 ## 사용 가능 언어
 * JAVA
@@ -56,7 +62,7 @@
 ***
 ## 2021 주요 활동
 1. 안드로이드 스튜디오를 이용한 [랜덤 번호 뽑기](http://github.com/lbd0/RandomNumber) 제작
-2. 아두이노를 이용한 [스마트 화분](https://github.com/lbd0/SoftwareExhibition) 제작
+2. 아두이노를 이용한 [스마트 화분](https://github.com/yoo-soo/SoftwareExhibition_2021) 제작
 3. 유니티를 이용한 FPS게임 [ExitZombie](https://github.com/lbd0/UnityProject_ExitZombie) 제작 
 4. SW Week 기초대회(파이썬 퀴즈 온 더 한림) 참가
 5. SW Week 대회(오픈소스 소프트웨어 활용 경연대회) 참가
