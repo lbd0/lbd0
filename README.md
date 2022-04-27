@@ -1,11 +1,16 @@
 # RESUME
 ## 인적사항
 ![ㅂㄷ](https://user-images.githubusercontent.com/80818640/163997620-b7d1a062-e37d-4593-997c-496738e4d4c6.jpg)
-* 이름 : **이바다**
-* 생년월일 : 2001.04.14
-* 소속 : 정보과학대학 소프트웨어융합학부 콘텐츠IT 전공 / 스마트 IOT 복수 전공
-* email : dlqkek8@naver.com
-* github : http://lbd0.github.com
+* 이름  
+**이바다**
+* 생년월일  
+**2001.04.14**
+* 소속  
+**정보과학대학 소프트웨어융합학부 콘텐츠IT 전공 / 스마트 IOT 복수 전공**
+* email  
+dlqkek8@naver.com
+* github  
+http://lbd0.github.com
 ***
 ## 프로젝트 경험
 * **아두이노**
