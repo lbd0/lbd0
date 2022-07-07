@@ -8,7 +8,7 @@
 * 소속  
 **한림대학교 정보과학대학 소프트웨어융합학부 콘텐츠IT 전공 / 스마트 IOT 복수 전공**
 * email  
-dlqkek8@naver.com
+leebd188@gmail.com
 * github  
 http://lbd0.github.com
 ***
