@@ -1,4 +1,4 @@
-# RESUME
+# README
 ## 👩인적사항
 ![바다](https://user-images.githubusercontent.com/80818640/166705167-a622a442-f9b6-4203-bdeb-675abaca0f14.jpg)
 * 이름  
