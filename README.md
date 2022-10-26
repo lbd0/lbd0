@@ -6,11 +6,13 @@
 * 생년월일  
 **2001.04.14**
 * 소속  
-**한림대학교 정보과학대학 소프트웨어융합학부 콘텐츠IT 전공 / 스마트 IOT 복수 전공**
+**한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT 전공 / 스마트 IOT 복수 전공**
 * email  
 yeebada0@gmail.com
 * github  
 http://lbd0.github.com
+* Resume Link<br>
+https://lbd0.github.io/
 ***
 ## 👩‍💻프로젝트 경험
 * **아두이노**
@@ -35,7 +37,7 @@ http://lbd0.github.com
 * ARDUINO
 * Raspberry Pi
 * LINUX
-* Kotlin
+* KOTLIN
 ***
 ## 📚2020 수강 과목 (전공&복수전공)
 |번호|과목명|
