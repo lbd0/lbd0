@@ -33,7 +33,9 @@ http://lbd0.github.com
 * PYTHON
 * UNITY
 * ARDUINO
+* Raspberry Pi
 * LINUX
+* Kotlin
 ***
 ## 📚2020 수강 과목 (전공&복수전공)
 |번호|과목명|
