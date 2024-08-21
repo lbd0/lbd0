@@ -9,8 +9,7 @@
 **한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT 전공 / 스마트IoT 복수 전공**
 * email  
 yeebada0@gmail.com
-* github  
-http://github.com/lbd0
+
 ***
 ## 👩‍💻프로젝트 경험
 * **유니티**
