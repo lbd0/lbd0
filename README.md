@@ -10,7 +10,7 @@
 * email  
 yeebada0@gmail.com
 * github  
-http://lbd0.github.com
+http://github.com/lbd0
 ***
 ## 👩‍💻프로젝트 경험
 * **아두이노**
