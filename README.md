@@ -16,7 +16,7 @@ yeebada0@gmail.com
   * 🎮[심박수 활용 반응형 VR 콘텐츠 및 심박수 측정 웨어러블 앱](https://github.com/lbd0/HeartRate_WatchApp) (2023)
     + 개요 : 사용자의 심박수를 실시간으로 측정하여 심박수가 높아질수록 난이도가 올라가는 VR 공포 탈출 게임으로 심박수를 하나의 게임 요소로 활용하고자 함. 
     + 제작 인원 : 5명
-    + 맡은 역할 : 심박수 측정 WearOS 앱 제작 및 '감옥'배경 콘텐츠 제작 지원
+    + 맡은 역할 : 심박수 측정 WearOS 앱 제작 및 Firebase DB와 Unity 연동, '감옥'배경 콘텐츠 제작 지원
 <br></br>
   * 🎮[노인을 위한 가상현실 요리체험 VR 콘텐츠](https://github.com/lbd0/2023_SeniorCooking) (2023)
     + 개요 : 
