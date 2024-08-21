@@ -13,28 +13,38 @@ yeebada0@gmail.com
 http://github.com/lbd0
 ***
 ## 👩‍💻프로젝트 경험
-* **아두이노**
-  1. 🌱[스마트화분](https://github.com/yoo-soo/SoftwareExhibition_2021)
-    + 개요 : 토양 습도를 측정하여 자동으로 물을 공급해주고 led 조명으로 빛을 제공하여 실내에서 쉽게 키울 수 있는 화분
-    + 제작 인원 : 2명
-    + 맡은 역할 : led 조명, lcd 모듈, 온도 센서, 블루투스 모듈 설치 및 구현
 * **유니티**
-  1. 🎮[심박수 활용 반응형 VR 콘텐츠 및 심박수 측정 웨어러블 앱](https://github.com/lbd0/HeartRate_WatchApp)
+  * 🎮[심박수 활용 반응형 VR 콘텐츠 및 심박수 측정 웨어러블 앱](https://github.com/lbd0/HeartRate_WatchApp) (2023)
     + 개요 : 사용자의 심박수를 실시간으로 측정하여 심박수가 높아질수록 난이도가 올라가는 VR 공포 탈출 게임으로 심박수를 하나의 게임 요소로 활용하고자 함. 
     + 제작 인원 : 5명
     + 맡은 역할 : 심박수 측정 WearOS 앱 제작 및 '감옥'배경 콘텐츠 제작 지원
-  2. 🎮[노인을 위한 가상현실 요리체험 VR 콘텐츠](https://github.com/lbd0/UnityProject_ExitZombie)
+<br></br>
+  * 🎮[노인을 위한 가상현실 요리체험 VR 콘텐츠](https://github.com/lbd0/2023_SeniorCooking) (2023)
     + 개요 : 
     + 제작 인원 : 3명
-    + 맡은 역할 : 
-  3. 🎮[요리 교육 VR 콘텐츠](https://github.com/lbd0/2024_KCGS)
+    + 맡은 역할 : 콘텐츠 흐름에 따라 프로그램 구현
+<br></br>
+  * 🎮[요리 교육 VR 콘텐츠](https://github.com/lbd0/2024_KCGS) (2024)
     + 개요 : 가상 에이전트를 활용한 요리 교육 VR 프로그램으로 가상 에이전트 기술이 교육 분야에서의 활용 가능성 확대를 기대함.
     + 제작 인원 : 3명
     + 맡은 역할 : 3D 스캐너를 사용하여 구하기 어려운 에셋 스캔, 배경 제작 및 콘텐츠 흐름에 따라 프로그램 구현
-  4. 🎮FPS 게임 [ExitZombie](https://github.com/lbd0/UnityProject_ExitZombie)
-    + 개요 : FPS방식으로 제한 시간안에 생성되는 좀비와 싸우며 아이템을 얻고, 건물을 탐색하여 힌트를 얻어 옥상으로 가는 엘리베이터의 비밀번호를 추리하여 탈출하는 타임어택 방탈출 게임
-    + 제작 인원 : 3명
-    + 맡은 역할 : 플레이어의 모든 기능 구현           
+<br></br>
+   * 🎮FPS 게임 [ExitZombie](https://github.com/lbd0/UnityProject_ExitZombie) (2021)
+      + 개요 : FPS방식으로 제한 시간안에 생성되는 좀비와 싸우며 아이템을 얻고, 건물을 탐색하여 힌트를 얻어 옥상으로 가는 엘리베이터의 비밀번호를 추리하여 탈출하는 타임어택 방탈출 게임
+      + 제작 인원 : 3명
+      + 맡은 역할 : 플레이어의 모든 기능 구현           
+<br></br>
+* **기타**
+  * 안드로이드 스튜디오
+    * 📱[랜덤 번호 뽑기](http://github.com/lbd0/RandomNumber) (2021)
+    * 📱[Mini Game Paradise](https://github.com/lbd0/2022_SoftwareExhibition) (2022)
+    * 📱[포트폴리오](https://github.com/lbd0/android_SmartPortfolio) (2022)
+<br></br>
+  * 아두이노
+    * 🌱[스마트화분](https://github.com/yoo-soo/SoftwareExhibition_2021) (2021)
+<br></br>
+  * 라즈베리파이
+    * [스마트 현관 센서등](https://github.com/lbd0/RaspberryPi_project) (2022)
 ***
 ## 🏆수상 내역
 * 2022 GitHub 이력서 해커톤 동상
@@ -42,14 +52,15 @@ http://github.com/lbd0
 * 2023한국컴퓨터그래픽스학회 우수학부포스터상 (심박수 활용 반응형 VR 콘텐츠)
 * 2023 정보과학대학 학술제 아이디어 부문 은상 (노인을 위한 가상현실 요리체험 콘텐츠)
 ***
-## ⚙사용 가능 언어
-* JAVA
+## ⚙스킬
+* Java
 * C/C++
-* UNITY
-* ARDUINO
+* Unity
+* Unreal Engine
+* Arduino
 * Raspberry Pi
-* LINUX
-* KOTLIN
+* Linux
+* Kotlin
 ***
 ## 💡2020 주요 활동
 1. 👩‍💻신입생 몰입형 SW코딩캠프 
@@ -70,34 +81,36 @@ http://github.com/lbd0
 ## 💡2022 주요 활동
 1. 🎮유니티를 이용한 VR 게임 [HeliFire](https://github.com/lbd0/VRProject_2022_1) 제작
 2. 2022 ACM-ICPC 대학생프로그래밍경시대회 예선 참가
-3. 🎮유니티를 이용한 AR 게임
-4. 라즈베리파이를 이용한 프로젝트
-5. 📱안드로이드 스튜디오를 이용한 포트폴리오 앱 제작
-6. 라즈베리파이피코보드, 마이크로파이썬 특강 수료
-7. 가상현실과 증강현실 그리고 메타버스 특강 수료
-8. Daily 코딩 (프로그래밍 기초 50제) 프로그램 수료
-9. SW Week 기초대회(파이썬 퀴즈 온 더 한림) 참가
-10. SW Week 대회(오픈소스 소프트웨어 활용 경연대회) 참가
-11. 🏅SW Week 대회(GitHub 이력서 콘테스트 해커톤) 참가 및 동상 수상
-12. 2022 한모코(한림모여코딩) 프로그램 참가 및 우수 팀 선정
-13. SW 학술 동아리 '씨애랑' 운영진 기획국원 - 동아리 행사 기획 및 진행
-14. GVE(Graphics & Virtual Environment) Lab 학부연구생
+3. 🎮유니티를 이용한 AR 게임 [Dino Game](https://github.com/lbd0/2022_SoftwareExhibitionAR) 제작
+4. 라즈베리파이를 이용한 프로젝트 [스마트 현관 센서등](https://github.com/lbd0/RaspberryPi_project)
+5. 📱안드로이드 스튜디오를 이용한 [Mini Game Paradise](https://github.com/lbd0/2022_SoftwareExhibition) 앱 제작
+6. 📱안드로이드 스튜디오를 이용한 [포트폴리오](https://github.com/lbd0/android_SmartPortfolio) 앱 제작
+7. 라즈베리파이피코보드, 마이크로파이썬 특강 수료
+8. 가상현실과 증강현실 그리고 메타버스 특강 수료
+9. Daily 코딩 (프로그래밍 기초 50제) 프로그램 수료
+10. SW Week 기초대회(파이썬 퀴즈 온 더 한림) 참가
+11. SW Week 대회(오픈소스 소프트웨어 활용 경연대회) 참가
+12. 🏅SW Week 대회(GitHub 이력서 콘테스트 해커톤) 참가 및 동상 수상
+13. 2022 한모코(한림모여코딩) 프로그램 참가 및 우수 팀 선정
+14. SW 학술 동아리 '씨애랑' 운영진 기획국원 - 동아리 행사 기획 및 진행
+15. GVE(Graphics & Virtual Environment) Lab 학부연구생
 ***
 ## 💡2023 주요 활동
 1. 🎮[심박수 활용 반응형 VR 콘텐츠 및 심박수 측정 웨어러블 앱](https://github.com/lbd0/HeartRate_WatchApp) 제작
 2. 2023한국컴퓨터그래픽스학회 논문 투고 (심박수를 활용한 맞춤형 VR 반응형 콘텐츠)
-3. 🎮노인을 위한 가상현실 요리체험 콘텐츠 제작
+3. 🎮[노인을 위한 가상현실 요리체험 콘텐츠](https://github.com/lbd0/2023_SeniorCooking) 제작
 4. 2024HCI 학술대회 포스터 논문 투고 (노인을 위한 가상현실 요리체험 인지능력 향상 프로그램)
 5. 🏅2023 1학기 SW 캡스톤 디자인 경진대회 장려상 수상
 6. 🏅2023한국컴퓨터그래픽스학회 우수학부포스터상 수상
 7. 🏅2023 정보과학대학 학술제 아이디어 부문 은상
 8. 2023 한모코(한림모여코딩) 프로그램 참가 및 우수 팀 선정
-9. SW 학술 동아리 '씨애랑' 운영진 기획국장 - 동아리 행사 기획 및 진행
-10. GVE(Graphics & Virtual Environment) Lab 학부연구생
+9. 하계 해외 IT 연수 (University of York) 참가 (2023.07.23 ~ 2023.08.05)
+10. SW 학술 동아리 '씨애랑' 운영진 기획국장 - 동아리 행사 기획 및 진행
+11. GVE(Graphics & Virtual Environment) Lab 학부연구생
 ***
 ## 💡2024 주요 활동
-1. Utah State University VizUS Lab 학부연구생 (2024.02.03 ~ 2024.05.03)
-2. 🎮요리 교육 VR 콘텐츠 제작
+1. Utah State University VizUS Lab (2024.02.03 ~ 2024.05.03)
+2. 🎮[요리 교육 VR 콘텐츠](https://github.com/lbd0/2024_KCGS) 제작
 3. 2024한국컴퓨터그래픽스학회 포스터 논문 투고 (GEMINI 연동 가상 에이전트를 이용한 요리 교육 VR 프로그램)
 ***
 ## 📚2020 수강 과목 (전공&복수전공)
