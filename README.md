@@ -96,7 +96,7 @@
 
 ## 💡2024 주요 활동
 1. Utah State University VizUS Lab 학부연구생(2024.02.03 - 2024.05.03)
-2. 🎮[요리 교육 VR 콘텐츠](https://github.com/lbd0/2024_KCGS)
+2. 🎮[요리 교육 VR 콘텐츠](https://github.com/lbd0/2024_KCGS) **(Unity 3D)**
 3. 2024 한국컴퓨터그래픽스학회 포스터 논문 투고 (GEMINI 연동 가상 에이전트를 이용한 요리 교육 VR 프로그램)
 4. 🎮[똥피하기](https://github.com/lbd0/cpp_consoleGame) **(C++)**
 ***
