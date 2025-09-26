@@ -89,8 +89,9 @@
 2. 🎮[AI교수 prototype](https://drive.google.com/drive/folders/1EgbDVwatFQKg3a7Dz0egHLqMvwImLZQ-?usp=share_link) **(Unreal Engine 5.5.3)**
 3. 🎮[Ham's Run](https://youtu.be/chiMr_Hkid8) **(Unreal Engine 4.27)**
 4. 🎮[Eclipse of Soul](https://lbd0.tistory.com/category/개발일지) **(Unreal Engine 5.4)**
-5. 자료구조, 알고리즘 스터디 [KGA Study](https://github.com/lbd0/KGA_CTStudy) (2025.02.17 - 2025.04.30)
-6. 코딩테스트 대비 스터디 [code_raptor](https://github.com/lbd0/code_raptor) (2025.09.08 - ing)
+5. 🏅총장상 (성적우수)
+6. 자료구조, 알고리즘 스터디 [KGA Study](https://github.com/lbd0/KGA_CTStudy) (2025.02.17 - 2025.04.30)
+7. 코딩테스트 대비 스터디 [code_raptor](https://github.com/lbd0/code_raptor) (2025.09.08 - ing)
 ***
 
 ## 💡2024 주요 활동
